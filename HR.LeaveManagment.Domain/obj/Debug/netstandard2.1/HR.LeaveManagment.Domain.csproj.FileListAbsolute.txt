@@ -1,0 +1,10 @@
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\netstandard2.1\HR.LeaveManagment.Domain.deps.json
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\netstandard2.1\HR.LeaveManagment.Domain.dll
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\netstandard2.1\HR.LeaveManagment.Domain.pdb
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.csproj.AssemblyReference.cache
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.AssemblyInfo.cs
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.dll
+C:\Users\m.almomani.ext\source\repos\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFAeR4HCqvUvDxTzbE8XqdIQq/rxTTo4OTnCONRFOgR5zwZE75LDvNj7FpEFVSGR1Tt/dVqlNNkWn7lqCjXypQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.almomani.ext\\source\\repos\\HR.LeaveManagment\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.almomani.ext\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\m.almomani.ext\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\m.almomani.ext\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
